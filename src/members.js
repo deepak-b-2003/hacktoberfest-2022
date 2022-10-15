@@ -189,4 +189,8 @@ export default [
     github: 'https://github.com/Masq915',
     linkedin: 'www.linkedin.com/in/ashfaq-qureshi-1023a7222',
   },
+  {
+    github: 'deepak-b-2003',
+    linkedin: 'https://www.linkedin.com/in/deepak-reddy-bijivemula-770b95201',
+  },
 ];
